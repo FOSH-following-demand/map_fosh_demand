@@ -16,6 +16,8 @@ This project is part of my year as a Mozilla fellow, but it has been long in the
 blurb
 
 ##### Pilot run:
-Together with Rede de Pesquisadores, a preliminary test survey was conducted in Brazilian Portuguese. We gathered ~90 responses which are available here [add location] as a .tsv file. We've also processed the data
+Together with Rede de Pesquisadores, a preliminary test survey was conducted in Brazilian Portuguese. If you are interested in seeing the survey, it can be found/answered [here.](https://docs.google.com/forms/d/e/1FAIpQLSf_yXgl40EK9NRDiKN9UCxgZykL1ZCE5wJjjhNO4hxmth8umw/viewform?c=0&w=1)
+
+We gathered ~100 responses which are available here [add location] as a .tsv file (emails and identifiers were removed from the file). We've also pre-processed (see the jupyter notebook here [add link] to know exactly how we processed the data) the data and some of the results can be seen below [add figures]: 
 
 
