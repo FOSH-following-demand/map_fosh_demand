@@ -21,6 +21,7 @@ ________________________________________________________________________
 
 ##### Would you like to be updated while this project develops?
 Yes
+
 No
 ________________________________________________________________________
 
@@ -29,11 +30,14 @@ ________________________________________________________________________
 _______________________
 ##### In case you win the prize, which of these books would you like best?
 Option 1 – 30 projects with Arduino
+
 Option 2 – Open source lab
 ________________________________
 ##### Gender:
 Male
+
 Female
+
 Rather not say
 _____________________________
 ##### Country:
@@ -45,16 +49,24 @@ _________________________________
 ##### City:
 Free text
 _________________________________
-##### Education:
-Please tell us the highest degree achieved:
+#### Education:
+
+##### Please tell us the highest degree achieved:
 
 Basic school
+
 High school
+
 Technician
+
 Bachelors of science
+
 bachelors of art
+
 Specialization (after undergrad studies)
+
 Masters
+
 PhD
 _____________________________________
 ##### Formation:
@@ -62,6 +74,7 @@ Please tell us your educational background (biology, chemistry, physics, etc)
 _____________________________
 ##### Are you associated to any institutions/groups/organizations?
 Yes
+
 No
 ______________________________________
 ##### If yes, would you mind sharing which one?
@@ -69,41 +82,62 @@ Free text
 ____________________________________
 ##### If you are in an academic institution, what is your main occupation:
 Student
+
 Researcher
+
 Professor
+
 Operational activities
+
 Administrative tasks
 __________________________________
 ##### Which of these are your main work area:
 Arts
+
 Biology
+
 Computer science
+
 Education
+
 Engineering
+
 Pharmacy
+
 Physics
+
 Geography
+
 Geology
+
 Mathematics
+
 Health
+
 Chemistry
+
 Other:
 ___________________________
 ##### For how many years have you been working in this area?
 Short answer (years)
+
 ______________________________________
 ### Open Technologies (Open Source):
 The open source movement is based on the idea that all the blueprints for software, hardware, equipment as well as articles and protocols can and should be freely distributed for use, study,  customization and improvement. This movement started around the sixties and gained a lot of space with the development of the Internet. Examples include the web browser firefox, and the GNU/Linux operating system.
 _______________________________
 ##### Do you use Open Technologies in your work/research/projects?
 Yes
+
 no
+
 I wouldn’t know
 
 _____________________________
 ##### Do you know anyone who is using open technologies?
 Yes
+
 no
+
 I wouldn’t know
 _________________________
 ##### Do you know any scientific equipment that is open source?
@@ -114,15 +148,21 @@ __________________________
 
 ##### How do you perceive research equipment access inside your group/institution?
 Satisfactory
+
 Partially satisfactory
+
 Unsatisfactory
+
 Rather not say
 
 ___________________________-
 ##### In case you feel there are difficulties related to equipment access, which of the following do you consider to be the biggest one?
 Too many users for a small number of equipment/tools
+
 Certain types of equipment are not available
+
 The amount of time necessary to repair/calibrate existing equipment
+
 I don’t see any difficulties in equipment access
 _________________________
 ##### Could you explain a bit your previous answer?
@@ -149,8 +189,11 @@ Short answer
 
 ##### In case any projects had to be changed due to access/problems, could you tell us why?
 Equipment broke and it took too much time to repair it
+
 Consumables were not available
+
 Equipment unavailable (other reasons than being broken)
+
 Other: ___
 
 -------------------------
