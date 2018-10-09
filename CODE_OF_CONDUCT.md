@@ -36,6 +36,10 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project lead at andremaia.chagas@gmail.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
+If complaint reviews show inappropriate behaviour, the project team will:
+a) contact offenders, warn them and indicate why the offending conduct is not ok. Make a notification to collaborators stating why a specific behaviour is innapropriate (to avoid possible new occurrences)
+b) if recurring offense happens by the same person, or if the offense is deemed extreme, the offender will be asked to leave the collaboration team immediately.
+
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
 ## Attribution
