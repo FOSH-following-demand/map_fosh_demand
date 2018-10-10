@@ -1,16 +1,21 @@
-Mapping the demand for research equipment
+# Mapping the demand for research equipment
 
 This survey was developed as a collaboration between the [Rede de Pesquisadores](https://www.rededepesquisadores.org/), [OpenNeuroscience](www.openeuroscience.com), [Prometheus Science](www.Prometheus-science.com), [Trend in Africa](www.trendinafrica.org), and the [Mozilla Foundation](www.mozilla.org).
 
 Our goal is to identify what are the current demands and needs related to scientific equipment used by researchers/DIYers/curious people in their projects.
 
-Your participation will enable us to develop a series of online tutorials and mentorships related to building affordable equipment. It will also help us identify opportunities for the creation of equipment distributed under open/permissive licenses. Under these types of licenses each and everyone of us can use, modify, copy, and improve the created equipment for their desired uses
+Your participation will enable us to develop a series of online tutorials related to building affordable equipment.
+It will also help us identify opportunities for the creation of equipment distributed under open/permissive licenses.
+Under these types of licenses, the created equipment can be used, modified, copied, and improved for new use cases.
 
-It should take less then 10 minutes to complete this questionnaire, and by filling it out you can opt-in to participate in a lottery for one of two books related to science and open source hardware. Your personal data will be kept private and won’t be passed on to third parties.
+It should take less then 10 minutes to complete this questionnaire.
+By participating in this survey, you can optionally opt-in to a lottery for one of two books related to science and open source hardware.
+Any personal data collected will be kept private and won’t be passed on to third parties.
 
-We appreciate your collaboration!
+We appreciate your contribution to improving access to scientific equipment!
 
-The results of this survey (minus personal information) will be openly available on GitHub, as we believe sharing this information is the best way to empower others and enable them to develop their tools for the public good.
+After data collection is completed, all non-identifiable answers to this survey will be openly available on GitHub.
+We believe sharing this information is the best way to empower others and enable them to develop their tools for the public good.
 
 
 
@@ -28,7 +33,12 @@ ________________________________________________________________________
 ##### Contact email (Optional entry):
 
 _______________________
-##### In case you win the prize, which of these books would you like best?
+##### Would you like to participate in a lottery for one of two free books?
+Yes
+
+No
+________________________________
+##### If you answered yes to the previous question, which of these books would you like best?
 Option 1 – 30 projects with Arduino
 
 Option 2 – Open source lab
@@ -38,12 +48,14 @@ Male
 
 Female
 
+Other
+
 Rather not say
 _____________________________
 ##### Country:
 Multiple choice
 
-##### State:
+##### State / Province:
 Free text
 _________________________________
 ##### City:
@@ -57,11 +69,11 @@ Basic school
 
 High school
 
-Technician
+Technician / Associates
 
 Bachelors of science
 
-bachelors of art
+Bachelors of art
 
 Specialization (after undergrad studies)
 
@@ -69,15 +81,15 @@ Masters
 
 PhD
 _____________________________________
-##### Formation:
+##### Formation or Concentration:
 Please tell us your educational background (biology, chemistry, physics, etc)
 _____________________________
-##### Are you associated to any institutions/groups/organizations?
+##### Are you affiliated with any institutions/groups/organizations?
 Yes
 
 No
 ______________________________________
-##### If yes, would you mind sharing which one?
+##### If yes, which one(s)?
 Free text
 ____________________________________
 ##### If you are in an academic institution, what is your main occupation:
@@ -89,7 +101,7 @@ Professor
 
 Operational activities
 
-Administrative tasks
+Administration
 __________________________________
 ##### Which of these are your main work area:
 Arts
