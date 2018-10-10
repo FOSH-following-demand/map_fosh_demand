@@ -10,14 +10,15 @@ Under these types of licenses, the created equipment can be used, modified, copi
 
 It should take less then 10 minutes to complete this questionnaire.
 By participating in this survey, you can optionally opt-in to a lottery for one of two books related to science and open source hardware.
+
 Any personal data collected will be kept private and won’t be passed on to third parties.
 
 We appreciate your contribution to improving access to scientific equipment!
 
-After data collection is completed, all non-identifiable answers to this survey will be openly available on GitHub.
+After data collection is completed, all answers that do NOT allow personal identification of respondants will be openly available on GitHub.
 We believe sharing this information is the best way to empower others and enable them to develop their tools for the public good.
 
-
+As an incentive to complete this survey, we have a book prize! You'll have the chance to choose between 2 titles related to Open source hardware. The way to participate is to complete the survey and answer the final 2 questions related to the prize itself.
 
 ### Information:
 
@@ -32,16 +33,7 @@ ________________________________________________________________________
 
 ##### Contact email (Optional entry):
 
-_______________________
-##### Would you like to participate in a lottery for one of two free books?
-Yes
 
-No
-________________________________
-##### If you answered yes to the previous question, which of these books would you like best?
-Option 1 – 30 projects with Arduino
-
-Option 2 – Open source lab
 ________________________________
 ##### Gender:
 Male
@@ -62,6 +54,9 @@ _________________________________
 Free text
 _________________________________
 #### Education:
+
+The questions about education have statistical value only. 
+The value of the answers given by each respondant will NOT be assigned based on scholarity.
 
 ##### Please tell us the highest degree achieved:
 
@@ -99,9 +94,9 @@ Researcher
 
 Professor
 
-Operational activities
-
 Administration
+
+Non-administrative/non-academic work
 __________________________________
 ##### Which of these are your main work area:
 Arts
@@ -209,22 +204,20 @@ Equipment unavailable (other reasons than being broken)
 Other: ___
 
 -------------------------
-##### If your funds were not a constrain and you could buy a new research equipment today, what would it be?
+##### If your funds were not a constrain and you could buy a new research equipment today, what would it be 
+##### (please separate each item with commas eg geiger counter, centrifuge)?
 Short answer
 
 -------------------------
 ##### Would you consider buying equipment from new brands or building it yourself?
-Yes
-
-no
-
-maybe:____
+-Yes
+-no
+-maybe:____
 
 ---------------------
 ##### Have you ever tested equipment from less know/new brands, built something yourself?
-Yes:____
-
-no
+-Yes:___ 
+-no
 
 ----------------------------
 ### Laboratory equipment:
@@ -234,15 +227,26 @@ no
 
 -Looking for affordable option
 
-Just to try out new things
+-Just to try out new things
 
-Brand was recommended by a colleague
+-Brand was recommended by a colleague
 
-Needed to establish new protocols/experiments
+-Needed to establish new protocols/experiments
 in the lab for which there were no options available in the market
 
 --------------------------
 ##### Would you like to test research equipment from new brands or distributed under DIY paradigm?
-Yes
+-Yes
 
-no
+-no
+
+_______________________
+##### Would you like to participate in a lottery for one of two free books?
+-Yes
+
+-No
+________________________________
+##### If you answered yes to the previous question, which of these books would you like best?
+Option 1 – 30 projects with Arduino
+
+Option 2 – Open source lab
