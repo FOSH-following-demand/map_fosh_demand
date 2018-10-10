@@ -2,14 +2,30 @@
 
 Hi! Thanks for taking the time to read through this project and for your interest in collaborating. 
 
-There are several ways to contribute to this project:
+There are several ways to contribute to this project and you can find some suggestions below, there are basically no requirements for collaborations, but we suggest that people interested in the project:
 
+ -gather a basic knowledge on Git ([version control system](https://git-scm.com/book/en/v1/Getting-Started-About-Version-Control) used for this project) 
+ -learn how to make collaborations using Github (the current platform hosting this project). 
+ 
+ Here are some tutorials for both things:
+  
+  -https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+  
+  -https://learn.co/lessons/git-github-and-learn
+  
+  -https://guides.github.com/activities/hello-world/
+  
+
+This might make the entry barrier a bit higher, but it will allow a much easier workflow, allow collaborators to try and test as much as they want in their local copies of the project, and a better management of the entire project, since we can track its history, the issues that need to be solved and the things we need to add based on popular demand.
+
+If you have any questions about using git/github in this project, please open up an [issue](https://github.com/amchagas/map_fosh_demand/issues) and we will try to help the best way we can to get you setup and running!
+
+- OBS: Some git jargon is used in this document as we are assuming collaborators accepted our suggestion above ;)
 
 **Do you speak another language other than English?** 
 Consider translating the survey so that non-English speakers can also share their scientific hardware needs!
 
 - The best way to contribute here is to fork this repo, create the translation and then make a [pull request](https://github.com/amchagas/map_fosh_demand/pulls).
-
 
 
 **Do you like playing with data?** 
