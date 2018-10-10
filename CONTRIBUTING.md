@@ -48,7 +48,8 @@ Find a piece of the hardware in the "needed instruments" list and:
 - go to the respective repository! There you'll find ways to contribute and what help is needed, since this will change given the development stage of the device.
 - If a repository is not there yet, get in touch by [adding an issue](https://github.com/amchagas/map_fosh_demand/issues) to this repo stating what hardware you would like to develop! We will then get in touch and offer as much support as needed to get you going :)
 
-____________________________________________________________________________________________________-
+
+____________________________________________________________________________________________________
 
 
 **Would you like to use/test what is being developed?**
