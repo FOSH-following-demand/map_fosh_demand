@@ -22,20 +22,20 @@ As an incentive to complete this survey, we have a book prize! You'll have the c
 
 ### Information:
 
-##### Name (Optional entry):
+##### 01- Name (Optional entry):
 ________________________________________________________________________
 
-##### Would you like to be updated while this project develops?
+##### 02- Would you like to be updated while this project develops?
 Yes
 
 No
 ________________________________________________________________________
 
-##### Contact email (Optional entry):
+##### 03 -Contact email (Optional entry):
 
 
 ________________________________
-##### Gender:
+##### 04- Gender:
 Male
 
 Female
@@ -44,13 +44,13 @@ Other
 
 Rather not say
 _____________________________
-##### Country:
+##### 05- Country:
 Multiple choice
 
-##### State / Province:
+##### 06- State / Province:
 Free text
 _________________________________
-##### City:
+##### 07- City:
 Free text
 _________________________________
 #### Education:
@@ -58,7 +58,7 @@ _________________________________
 The questions about education have statistical value only. 
 The value of the answers given by each respondant will NOT be assigned based on scholarity.
 
-##### Please tell us the highest degree achieved:
+##### 08- Please tell us the highest degree achieved:
 
 Basic school
 
@@ -76,18 +76,18 @@ Masters
 
 PhD
 _____________________________________
-##### Formation or Concentration:
+##### 09- Formation or Concentration:
 Please tell us your educational background (biology, chemistry, physics, etc)
 _____________________________
-##### Are you affiliated with any institutions/groups/organizations?
+##### 10- Are you affiliated with any institutions/groups/organizations?
 Yes
 
 No
 ______________________________________
-##### If yes, which one(s)?
+##### 11- If yes, which one(s)?
 Free text
 ____________________________________
-##### If you are in an academic institution, what is your main occupation:
+##### 12- If you are in an academic institution, what is your main occupation:
 Student
 
 Researcher
@@ -98,7 +98,7 @@ Administration
 
 Non-administrative/non-academic work
 __________________________________
-##### Which of these are your main work area:
+##### 13- Which of these are your main work area:
 Arts
 
 Biology
@@ -125,14 +125,14 @@ Chemistry
 
 Other:
 ___________________________
-##### For how many years have you been working in this area?
+##### 14- For how many years have you been working in this area?
 Short answer (years)
 
 ______________________________________
 ### Open Technologies (Open Source):
 The open source movement is based on the idea that all the blueprints for software, hardware, equipment as well as articles and protocols can and should be freely distributed for use, study,  customization and improvement. This movement started around the sixties and gained a lot of space with the development of the Internet. Examples include the web browser firefox, and the GNU/Linux operating system.
 _______________________________
-##### Do you use Open Technologies in your work/research/projects?
+##### 15- Do you use Open Technologies in your work/research/projects?
 Yes
 
 no
@@ -140,20 +140,20 @@ no
 I wouldn’t know
 
 _____________________________
-##### Do you know anyone who is using open technologies?
+##### 16- Do you know anyone who is using open technologies?
 Yes
 
 no
 
 I wouldn’t know
 _________________________
-##### Do you know any scientific equipment that is open source?
+##### 17- Do you know any scientific equipment that is open source?
 (short answer)
 
 __________________________
 ### LABORATORY EQUIPMENT
 
-##### How do you perceive research equipment access inside your group/institution?
+##### 18- How do you perceive research equipment access inside your group/institution?
 Satisfactory
 
 Partially satisfactory
@@ -162,8 +162,9 @@ Unsatisfactory
 
 Rather not say
 
-___________________________-
-##### In case you feel there are difficulties related to equipment access, which of the following do you consider to be the biggest one?
+___________________________
+
+##### 19- In case you feel there are difficulties related to equipment access, which of the following do you consider to be the biggest one?
 Too many users for a small number of equipment/tools
 
 Certain types of equipment are not available
@@ -172,16 +173,16 @@ The amount of time necessary to repair/calibrate existing equipment
 
 I don’t see any difficulties in equipment access
 _________________________
-##### Could you explain a bit your previous answer?
+##### 20- Could you explain a bit your previous answer?
 ------------------------------
 
 ### Lab Equipment
 
-##### Which equipments/tools are most used in your lab/workspace?
+##### 21- Which equipments/tools are most used in your lab/workspace?
 Short answer
 
 --------------------------------
-##### Was there ever a need to change a project due to problems related to equipment use/access?
+##### 22- Was there ever a need to change a project due to problems related to equipment use/access?
 Yes
 
 no
@@ -189,12 +190,12 @@ no
 I wouldn’t know
 
 ------------------
-##### If you answered yes above, could you tell us which equipment caused the change?
+##### 23- If you answered yes above, could you tell us which equipment caused the change?
 Short answer
 
 -------------------------
 
-##### In case any projects had to be changed due to access/problems, could you tell us why?
+##### 24- In case any projects had to be changed due to access/problems, could you tell us why?
 Equipment broke and it took too much time to repair it
 
 Consumables were not available
@@ -204,25 +205,25 @@ Equipment unavailable (other reasons than being broken)
 Other: ___
 
 -------------------------
-##### If your funds were not a constrain and you could buy a new research equipment today, what would it be 
-##### (please separate each item with commas eg geiger counter, centrifuge)?
+##### 25- If your funds were not a constrain and you could buy a new research equipment today, what would it be 
+##### (please try to avoid acronyms (use thermocycler instead of PCR machine) and separate each item with commas, like so: geiger counter, centrifuge, thermocycler)?
 Short answer
 
 -------------------------
-##### Would you consider buying equipment from new brands or building it yourself?
+##### 26- Would you consider buying equipment from new brands or building it yourself?
 -Yes
 -no
 -maybe:____
 
 ---------------------
-##### Have you ever tested equipment from less know/new brands, built something yourself?
+##### 27- Have you ever tested equipment from less know/new brands, built something yourself?
 -Yes:___ 
 -no
 
 ----------------------------
 ### Laboratory equipment:
 
-##### In case you have already tested, built equipment yourself, you did it because:
+##### 28- In case you have already tested, built equipment yourself, you did it because:
 -Only available brand
 
 -Looking for affordable option
@@ -235,18 +236,18 @@ Short answer
 in the lab for which there were no options available in the market
 
 --------------------------
-##### Would you like to test research equipment from new brands or distributed under DIY paradigm?
+##### 29- Would you like to test research equipment from new brands or distributed under DIY paradigm?
 -Yes
 
 -no
 
 _______________________
-##### Would you like to participate in a lottery for one of two free books?
+##### 30- Would you like to participate in a lottery for one of two free books?
 -Yes
 
 -No
 ________________________________
-##### If you answered yes to the previous question, which of these books would you like best?
+##### 31- If you answered yes to the previous question, which of these books would you like best?
 Option 1 – 30 projects with Arduino
 
 Option 2 – Open source lab
