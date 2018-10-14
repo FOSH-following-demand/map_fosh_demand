@@ -9,7 +9,7 @@ It will also help us identify opportunities for the creation of equipment distri
 Under these types of licenses, the created equipment can be used, modified, copied, and improved for new use cases.
 
 It should take less then 10 minutes to complete this questionnaire.
-By participating in this survey, you can optionally opt-in to a lottery for one of two books related to science and open source hardware.
+By participating in this survey, you can opt-in to a lottery for one of two books related to science and open source hardware.
 
 Any personal data collected will be kept private and won’t be passed on to third parties.
 
@@ -20,15 +20,27 @@ We believe sharing this information is the best way to empower others and enable
 
 As an incentive to complete this survey, we have a book prize! You'll have the chance to choose between 2 titles related to Open source hardware. The way to participate is to complete the survey and answer the final 2 questions related to the prize itself.
 
+
+
 ### Information:
 
 ##### 01- Name (Optional entry):
 ________________________________________________________________________
 
-##### 02- Would you like to be updated while this project develops?
-Yes
+#### 02- General Data Protection Regulation:
 
-No
+The contact information you provide on this survey will not be passed on to third parties and will only be used to contact you with updates about our findings, and the actions being taken afterwards: 
+
+- Results of the survey (most demanded equipment per region, biggest problem for preparation of projects/experiments, etc).
+- News about the prize winner.
+- Inquiry about answering a follow up survey
+- Inquiry about collaborating with volunteers building tools selected from the results of the survey
+
+
+
+#### It is ok to contact me regarding the above mentioned topics (checkbox)
+
+
 ________________________________________________________________________
 
 ##### 03 -Contact email (Optional entry):
