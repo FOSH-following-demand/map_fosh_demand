@@ -24,9 +24,10 @@ Como un incentivo para completar esta encuesta, ¡tenemos un libro de premio! Te
 
 ### Información:
 
+##### 01- Nombre (Entrada opcional):
+________________________________________________________________________
 
-
-#### 01- Regulación de protección de información personal:
+#### 02- Regulación de protección de información personal:
 
 La información de contacto que Ud. provea en esta encuesta no será pasado a terceros y sólo será utilizada para contactarlo con actualizaciones sobre nuestros descubrimientos, y las acciones que están siendo tomadas posteriormente:
 
@@ -41,9 +42,13 @@ La información de contacto que Ud. provea en esta encuesta no será pasado a te
 #### Está bien contactarme acerca de los temas mencionados arriba (checkbox)
 
 
+________________________________________________________________________
+
+##### 03 -E-mail de contacto (Entrada opcional):
+
 
 ________________________________
-##### 03- Género:
+##### 04- Género:
 Masculino
 
 Femenino
@@ -52,13 +57,13 @@ Otro
 
 Preferiría no decir
 _____________________________
-##### 04- País:
+##### 05- País:
 Opción Múltiple
 
-##### 05- Estado / Provincia:
+##### 06- Estado / Provincia:
 Texto Libre
 _________________________________
-##### 06- Ciudad:
+##### 07- Ciudad:
 Texto Libre
 _________________________________
 #### Educación:
@@ -66,7 +71,7 @@ _________________________________
 Las preguntas sobre educación solamente tienen valor estadístico.
 El valor de las respuestas dadas por cada respondiente NO será asignado basado en escolaridad.
 
-##### 07- Por favor díganos el último nivel educativo adquirido:
+##### 08- Por favor díganos el último nivel educativo adquirido:
 
 Escuela Primaria
 
@@ -84,18 +89,18 @@ Masters
 
 PhD
 _____________________________________
-##### 08- Formación o concentración:
+##### 09- Formación o concentración:
 Por favor díganos sobre su background educativo (biología, química, física, etc)
 _____________________________
-##### 09- Está Ud. afiliado con alguna institución / grupo / organización?
+##### 10- Está Ud. afiliado con alguna institución / grupo / organización?
 Si
 
 No
 ______________________________________
-##### 10- Si la hay, cual es/ son?
+##### 11- Si la hay, cual es/ son?
 Texto Libre
 ____________________________________
-##### 11- Si Ud. está en una institución acadénica, cual es su ocupación:
+##### 12- Si Ud. está en una institución acadénica, cual es su ocupación:
 
 Investigador
 
@@ -105,7 +110,7 @@ Administración
 
 Trabajo no administrativo / No académico
 __________________________________
-##### 12- Cuál es su área principal de trabajo:
+##### 13- Cuál es su área principal de trabajo:
 Artes
 
 Biología
@@ -132,14 +137,14 @@ Química
 
 Otros:
 ___________________________
-##### 13- For cuántos años ha estado trabajando en esta área?
+##### 14- For cuántos años ha estado trabajando en esta área?
 Respuesta corta (años)
 
 ______________________________________
 ### Tecnologías abiertas (Open Source):
 El movimiento open source está basado en la idea que todos los planos para software, hardware y equipamiento así como artículos y protocolos  pueden y deberían ser libremente distribuidos para uso, estudio, customización y mejoramiento. Este movimiento comenzó en los sesentas y ha ganado mucho espacio con el desarrollo de la Internet. Los ejemplos incluyen el navegador Firefox y el sistema operativo GNU / Linux..
 _______________________________
-##### 14- ¿Ud. usa tecnologías abiertas en su trabajo / investigación / proyectos?
+##### 15- ¿Ud. usa tecnologías abiertas en su trabajo / investigación / proyectos?
 Si
 
 no
@@ -147,20 +152,20 @@ no
 No sabría
 
 _____________________________
-##### 15- ¿Ud. conoce alguien que esté usando tecnologías abiertas?
+##### 16- ¿Ud. conoce alguien que esté usando tecnologías abiertas?
 Si
 
 no
 
 No lo sabría
 _________________________
-##### 16- ¿Conoce algun equipo cientifico que sea de dominio abierto (open source)?
+##### 17- ¿Conoce algun equipo cientifico que sea de dominio abierto (open source)?
 (Respuesta corta)
 
 __________________________
 ### EQUIPO DE LABORATORIO
 
-##### 17- ¿Como ud. percibe el equipo de investigación dentro de su grupo / institución?
+##### 18- ¿Como ud. percibe el equipo de investigación dentro de su grupo / institución?
 Satisfactorio
 
 Parcialmente satisfactorio
@@ -171,7 +176,7 @@ Preferiría no decir
 
 ___________________________
 
-##### 18- En caso que Ud. sienta que hay dificultades relacionadas al acceso de equipos, cual de las siguientes considera Ud. que sería la más grande?
+##### 19- En caso que Ud. sienta que hay dificultades relacionadas al acceso de equipos, cual de las siguientes considera Ud. que sería la más grande?
 Demasiados usuarios para un número pequeño de equipamiento / herramientas
 
 Algunos tipos de equipamientos no están disponibles
@@ -181,16 +186,16 @@ La cantidad de tiempo necesaria para reparar / calibrar equipamiento existente
 No veo dificultades en el acceso a equipamentos
 
 _________________________
-##### 19- ¿Podría ud. explicarnos un poco más acerca de su respuesta anterior?
+##### 20- ¿Podría ud. explicarnos un poco más acerca de su respuesta anterior?
 ------------------------------
 
 ### Equipamiento de Laboratorio
 
-##### 20- ¿Qué equipamiento / herramientas son los más utilizados en su laboratorio / espacio de trabajo?
+##### 21- ¿Qué equipamiento / herramientas son los más utilizados en su laboratorio / espacio de trabajo?
 Respuesta corta
 
 --------------------------------
-##### 21- Hubo alguna vez la necesidad de cambiar un proyecto por problemas relacionados al equipo, su uso y acceso?
+##### 22- Hubo alguna vez la necesidad de cambiar un proyecto por problemas relacionados al equipo, su uso y acceso?
 Si
 
 no
@@ -198,12 +203,12 @@ no
 No lo sabría
 
 ------------------
-##### 22- Si contestó "Si" arriba, ¿podría Ud. decirnos que equipo causó el cambio?
+##### 23- Si contestó "Si" arriba, ¿podría Ud. decirnos que equipo causó el cambio?
 Respuesta corta
 
 -------------------------
 
-##### 23- En caso de cualquier proyecto haya sido cambiado por accesos / problemas, ¿podría decirnos por qué?
+##### 24- En caso de cualquier proyecto haya sido cambiado por accesos / problemas, ¿podría decirnos por qué?
 El equipo se rompió y se tardó mucho tiempo en repararlo
 
 Los consumibles no estaban disponibles
@@ -213,25 +218,25 @@ El equipo no estaba disponible (otras razones fuera que el equipo esté roto)
 Otros: ___
 
 -------------------------
-##### 24- So sus fndos no fueran una limitación y pudiese comprar un nuevo equipamiento hoy, ¿qué/ cuál sería?
+##### 25- So sus fndos no fueran una limitación y pudiese comprar un nuevo equipamiento hoy, ¿qué/ cuál sería? 
 ##### (Por favor trate de evitar usar acrónimos (use termociclador en vez de máquina PCR) y separe cada ítem con comas, de este modo: contador geiger, centrifugador, termociclador, etc?
 Respuesta corta
 
 -------------------------
-##### 25- ¿Consideraría usar equipos de marcas nuevas o construyéndolas ud. mismo?
+##### 26- ¿Consideraría usar equipos de marcas nuevas o construyéndolas ud. mismo?
 -Si
 -no
 -Capaz:____
 
 ---------------------
-##### 26- ¿Ha testeado equipamiento de marcas menos conocidas / nuevas, construido algo por ud. mismo?
--Si:___
+##### 27- ¿Ha testeado equipamiento de marcas menos conocidas / nuevas, construido algo por ud. mismo?
+-Si:___ 
 -no
 
 ----------------------------
 ### Equipo de laboratorio:
 
-##### 27- En caso que ud. ya lo haya testeado, o que haya construido el equipo ud. mismo, lo hizo por que:
+##### 28- En caso que ud. ya lo haya testeado, o que haya construido el equipo ud. mismo, lo hizo por que:
 -Solo hay una marca disponible
 
 -Buscando una opción económica
@@ -244,7 +249,18 @@ Respuesta corta
  en el laboraratorio para los que no hay opciones disponibles en el mercado
 
 --------------------------
-##### 28- ¿Le gustaría testear equipamiento de investigación (de prueba) para nuevas marcas o distribuidos bajo el paradigma DIY?
+##### 29- ¿Le gustaría testear equipamiento de investigación (de prueba) para nuevas marcas o distribuidos bajo el paradigma DIY?
 -Si
 
 -no
+
+_______________________
+##### 30- ¿Le gustaría participar en un sorteo por uno de dos libros?
+-Si
+
+-No
+________________________________
+##### 31- Si contestó si a la pregunta previa, ¿qué tipo de libros preferiría?
+Option 1 – 30 proyectos con Arduino
+
+Option 2 – Laboratorio Open Source
