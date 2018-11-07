@@ -18,7 +18,7 @@ We appreciate your contribution to improving access to scientific equipment!
 After data collection is completed, all answers that do NOT allow personal identification of respondants will be openly available on GitHub.
 We believe sharing this information is the best way to empower others and enable them to develop their tools for the public good.
 
-As an incentive to complete this survey, we have a book prize! You'll have the chance to choose between 2 titles related to Open source hardware. The way to participate is to complete the survey and answer the final 2 questions related to the prize itself.
+
 
 
 
