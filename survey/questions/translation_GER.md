@@ -7,12 +7,12 @@ Ihre Teilnahme hilft uns dabei, eine Online-Tutorials Serie für den Bau kosteng
 
 Das Ausfüllen des Fragebogens sollte maximal 10 Minuten in Anspruch nehmen.
 
-Jegliche Art persönlicher Daten werden vertraulich behandelt und nicht dan Dritte weitergegeben.
+Jegliche Art persönlicher Daten werden vertraulich behandelt und nicht an Dritte weitergegeben.
 
 Vielen Dank für Ihre Teilnahme und Ihren Beitrag zur Verbesserung des Zugangs zu wissenschaftlichen Geräten!
 
 Achtung: Nach Abschluss der Datenerhebung werden alle Antworten, die KEINE persönliche Informationen beinhalten, auf GitHub veröffentlicht.
-Wir glauben daran, dass die Veröffentlichung dieser Informationen der beste Weg ist auch Anderen dabei zu helfen, ihre Geräte dem Bedarf entsprechen zum Wohle der Allgemeinheit zu entwickeln.
+Wir glauben dass die Veröffentlichung dieser Informationen der beste Weg ist auch Anderen dabei zu helfen, ihre Geräte dem Bedarf entsprechen zum Wohle der Allgemeinheit zu entwickeln.
 
 
 
@@ -23,7 +23,9 @@ ________________________________________________________________________
 
 #### 02- Allgemeine Datenschutzerklärung:
 
-Die übermittelten Kontaktinformationen werden nicht an Dritte weitergegeben und werden von uns nur verwendet um Sie über unsere neusten Untersuchungsergebnisse und Handlungsmaßnahmen die wir unternehmen werden.
+Die übermittelten Kontaktinformationen werden nicht an Dritte weitergegeben und werden von uns nur verwendet um Sie über unsere neusten Untersuchungsergebnisse und Handlungsmaßnahmen zu informieren die wir unternehmen werden.
+
+Wir kontaktieren Sie bzgl.:
 
 - Ergebnis der Umfrage (Höchste Gerätenachfrage nach Region, Größten Herrausforderungen für Experimente und Projekte, etc).
 - Vekündigung des Preisgewinners
@@ -59,8 +61,8 @@ Free text
 _________________________________
 #### Ausbildung:
 
-Die Fragen über Ihre Ausbildung werden nur fuur statistische Zwecke verwendet.
-Die gegebenen Antworten werden nicht nach der Bildung der Befragten sortiert
+Die Fragen über Ihre Ausbildung werden nur für statistische Zwecke verwendet.
+Die gegebenen Antworten werden nicht nach der Bildung der Befragten sortiert!
 
 ##### 08- Was ist Ihr höchster Bildungsabschluss:
 
@@ -89,10 +91,10 @@ Ja
 
 Nein
 ______________________________________
-##### 11- Falls ja, wie ist der Name der Institut, Interessensgruppe oder Organisation.
+##### 11- Falls ja, wie ist der Name des Instituts, der Interessensgruppe oder Organisation.
 Free text
 ____________________________________
-##### 12- Falls Sie einer academischen Einrichtung assoziiert sind: Was ist Ihre Haupttätigkeit
+##### 12- Falls Sie einer akademischen Einrichtung assoziiert sind: Was ist Ihre Haupttätigkeit?
 Student
 
 Wissenschaftler
@@ -136,7 +138,7 @@ Short answer (Jahre)
 ______________________________________
 ### Offene Technologien (Open Source):
 
-Die Open-Source-Bewegung basiert auf der Idee, dass alle Entwürfe für Software, Hardware, Ausrüstung sowie Artikel und Protokolle frei geteilt werden können und sollten, um sie zu nutzen, zu untersuchen, anzupassen und zu verbessern. Diese Bewegung begann in den 60er Jahren und gewann mit der Entwicklung des Internets viel Platz in der Gesellschaft. Beispiele sind der Webbrowser Firefox und das Betriebssystem GNU/Linux.
+Die Open-Source-Bewegung basiert auf der Idee, dass alle Entwürfe für Software, Hardware, Ausrüstung sowie Artikel und Protokolle frei geteilt werden können und sollten, um sie zu nutzen, zu untersuchen, anzupassen und zu verbessern. Diese Bewegung begann in den 60er Jahren und gewann mit der Entwicklung des Internets immer mehr Bedeutung für die Gesellschaft. Beispiele sind der Webbrowser Firefox und das Betriebssystem GNU/Linux.
 _______________________________
 ##### 15- Benutzen Sie offene Technologien in Ihrer Arbeit/Forschung/Projekten?
 Ja
@@ -186,10 +188,10 @@ _________________________
 ### Laborausstattung
 
 ##### 20- Welche Geräte/Instrumente werden bei Ihnen am häufigsten verwendet?
-Short answer
+Kurye Antwort
 
 --------------------------------
-##### 21- Gab es jemals ein Projekt dass Sie anpassen mussten aufgrund Hindernisse bezüglich Zugang zu und Benutzung von wissenschaftlichen Geräten
+##### 21- Gab es jemals ein Projekt dass Sie anpassen mussten aufgrund Hindernisse bezüglich Zugang zu wissenschaftlichen Geräten und deren Benutzung.
 
 Ja
 
@@ -222,7 +224,7 @@ Short answer
 ##### 25- Würden Sie es in Erwägung ziehen Geräte von einem neuen Hersteller zu kaufen oder sie selbst zu bauen?
 -Ja
 -Nein
--maybe:____
+-Vielleicht:____
 
 ---------------------
 ##### 26- Haben Sie bereits Geräte von unbekannten/neuen Herstellern getestet oder ein eigenes Gerät gebaut?
@@ -233,15 +235,15 @@ Short answer
 ### Laborausstattung:
 
 ##### 27- Falls Sie bereits Geräte getestet oder selbst gebaut haben: Haben Sie es gemacht weil...
--es war der einzige verfügbare Hersteller
+-es der einzige verfügbare Hersteller war?
 
--eine kostengünstige Alternative gesucht wurde.
+-eine kostengünstige Alternative gesucht wurde?
 
--um einfach etwas Neues auszuprobieren
+-Sie einfach etwas Neues auszuprobieren wollten?
 
--der Hersteller mir von Kollegen empfohlen wurde
+-der Hersteller Ihnen von Kollegen empfohlen wurde?
 
--neue Protokolle/Experimente im Labor etabliert werden mussten und die benötigten Geräte nicht kommerziell verfügbar waren.
+-neue Protokolle/Experimente im Labor etabliert werden mussten und die benötigten Geräte nicht kommerziell verfügbar waren?
 
 --------------------------
 ##### 28- Würden Sie gerne wissenschaftliche Geräte von neuen Herstellern oder die als offene Technologie vertrieben werden testen?
