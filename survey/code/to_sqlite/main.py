@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-
+import os
 import csv
 import argparse
 import json
@@ -111,6 +111,19 @@ header = [
 ]
 
 
+def grab_header(filename):
+    with open(filename, newline='') as csvfile:
+        #dialect = csv.Sniffer().sniff(csvfile.read(1024))
+        #csvfile.seek(0)
+        #spamreader = csv.reader(csvfile, dialect)
+        spamreader = csv.reader(csvfile, delimiter='\t', quotechar='"')
+        for index,row in enumerate(spamreader):
+            if index==0:
+                header = row
+        
+        return header
+        
+
 def csv_to_lowercase(filename, output):
     """This function convert uppercase letters to lowercase."""
     
@@ -149,13 +162,14 @@ c = conn.cursor()
 #c.execute('''CREATE TABLE survey
 #            (response_id text,date_submitted text,last_page text,language text,gender text,city text,state text,country text,formation text,highest_degree text,affiliated_institutions text,institution text,academic_occupation text,main_work_area text,working_years text,equipment_situation text,explain_equipment text,situation text,the_biggest_difficulty_in_equipment_access text,tools_are_most_used_in_your_lab text,second_tools_are_most_used_in_your_lab text,third_tools_are_most_used_in_your_lab text,question_1 text,question_2 text,question_3 text,question_4 text,question_5 text,question_6 text,question_7 text,question_8 text,question_9 text,question_10 text,question_11 text,question_12 text,question_13 text,question_14 text,question_15 text,question_16 text,question_17 text,question_18 text,question_19 text,question_20 text,question_21 text,question_22 text,question_23 text,question_24 text,question_25 text,question_26 text,question_27 text,question_28 text,question_29 text,question_30 text,question_31 text,question_32 text,question_33 text,question_34 text,question_35 text,question_36 text,question_37 text,question_38 text,question_39 text,question_40 text,question_41 text,question_42 text,question_43 text,question_44 text,question_45 text,question_46 text,question_47 text,question_48 text,question_49 text,question_50 text,question_51 text,question_52 text,question_53 text,question_54 text,question_55 text,question_56 text,question_57 text,question_58 text,question_59 text,question_60, question_61 text,question_62 text,question_63, question_64 text,question_65 text,question_66, question_67 text,question_68 text,question_69 text,question_70 text,question_71 text)''')
 
-#data = populate('output.tsv')
+data = populate('output.tsv')
 #c.executemany('INSERT INTO survey VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)', data)
 #conn.commit()
 
 for row in c.execute('SELECT * FROM survey WHERE country == "france" '):
     print(row)
     print('ROW --------------------------------------------------')
+    
 conn.close()
 
 
