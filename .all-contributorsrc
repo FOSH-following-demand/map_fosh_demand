@@ -20,9 +20,10 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/2490770?v=4",
       "profile": "https://github.com/torlax",
       "contributions": [
-        "code"]
-        },
-        {
+        "code"
+      ]
+    },
+    {
       "login": "vektorious",
       "name": "Alexander Kutschera",
       "avatar_url": "https://avatars1.githubusercontent.com/u/20026476?v=4",
@@ -30,7 +31,6 @@
       "contributions": [
         "code",
         "content"
-
       ]
     }
   ],
