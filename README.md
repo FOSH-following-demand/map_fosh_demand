@@ -45,6 +45,9 @@ freezer
 cytometer  
 transilluminator  
 
+##### contributors:
+
+
 ##### About me:
 For about 8 years I've been working to make science more affordable and accessible. The main reason for it is that I stronlgy believe (as many other people do) that science and education are the best ways to bring change and improvement to society. I also believe that local problems are best solved by the people that live in that environment, and therefore my efforts are better employed when I work to provide access to information and to the tools necessary to solve problems/perform experiments. In practical terms this has translated into the following initiatives/collaborations:
 
