@@ -1,5 +1,5 @@
 # map_fosh_demand
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 Hi there, thanks for passing by! This repo is the rallying point for the map_fosh_demand project.
 
@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://www.openeuroscience.com"><img src="https://avatars3.githubusercontent.com/u/3624486?v=4" width="100px;" alt="Andre Maia Chagas"/><br /><sub><b>Andre Maia Chagas</b></sub></a><br /><a href="https://github.com/FOSH-following-demand/map_fosh_demand/commits?author=amchagas" title="Code">💻</a></td></tr></table>
+<table><tr><td align="center"><a href="http://www.openeuroscience.com"><img src="https://avatars3.githubusercontent.com/u/3624486?v=4" width="100px;" alt="Andre Maia Chagas"/><br /><sub><b>Andre Maia Chagas</b></sub></a><br /><a href="https://github.com/FOSH-following-demand/map_fosh_demand/commits?author=amchagas" title="Code">💻</a></td><td align="center"><a href="https://github.com/torlax"><img src="https://avatars1.githubusercontent.com/u/2490770?v=4" width="100px;" alt="Giovani Felipe Benatto"/><br /><sub><b>Giovani Felipe Benatto</b></sub></a><br /><a href="https://github.com/FOSH-following-demand/map_fosh_demand/commits?author=torlax" title="Code">💻</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
