@@ -1,4 +1,5 @@
 # map_fosh_demand
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 Hi there, thanks for passing by! This repo is the rallying point for the map_fosh_demand project.
 
@@ -57,3 +58,15 @@ For about 8 years I've been working to make science more affordable and accessib
     - We are also creating open source hardware. Some examples can be seen [here](github.com/amchagas/flypi), [here](github.com/badenlab/spikeling) and [here](github.com/badenlab/openspritzer).
  - Editing [Open Source Toolkit Channel](https://channels.plos.org/open-source-toolkit) from Plos: Together with a great team, we are curating academic papers and other resources describing open source hardware for science.
  - [Prometheus Science](http://www.prometheus-science.com) - a project in its initial steps, aiming to bring OS hardware from prototype to consumer products and work with developers so that they get rewarded by their work.
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table><tr><td align="center"><a href="http://www.openeuroscience.com"><img src="https://avatars3.githubusercontent.com/u/3624486?v=4" width="100px;" alt="Andre Maia Chagas"/><br /><sub><b>Andre Maia Chagas</b></sub></a><br /><a href="https://github.com/FOSH-following-demand/map_fosh_demand/commits?author=amchagas" title="Code">💻</a></td></tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
